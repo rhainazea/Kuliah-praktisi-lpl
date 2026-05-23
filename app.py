@@ -1,6 +1,3 @@
-import srreamlit as at
+import streamlit as st
 
-st.set_page_config(
-  page_tittle="Sinance Dashoard",
-  layout="wide"
-)
+st.title("Dashboard")
